@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no">
+    <title>今日菜单</title>
+    <link rel="stylesheet" href="css/weMenu.css"/>
+</head>
+<body>
+<!--动画-->
+<div class="top">
+    <div class="countdown">
+        <div class="time">生成菜单中...</div>
+        <canvas id="cc" height="290" width="290"></canvas>
+    </div>
+</div>
+<p class="title">今天是：<span>周一</span></p>
+<!--周末-->
+<div class="weekend">
+    <p class="tip">周末来了，来点特殊的好好享受一下吧</p>
+    <p class="noon-else">中午：<span class="msg">1</span></p>
+    <p class="night-else">晚上：<span class="msg">1</span></p>
+    <hr>
+</div>
+<!--中午-->
+<div class="noon">
+    中午<span class="tip">(普通菜单)</span>：<span class="msg">1</span>
+</div>
+<!--下午-->
+<div class="night">
+    下午<span class="tip">(普通菜单)</span>：<span class="msg">1</span>
+</div>
+
+<script src="js/jquery1.9.min.js"></script>
+<script src="js/weMenu.js"></script>
+</body>
+</html>
