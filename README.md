@@ -1,8 +1,8 @@
 # 功能展示
-[点此观看](https://quiethear.github.io/canvas-weMenu/yzl的菜单.html "我们的菜单")(建议右键新建窗口查看)
+[点此观看](https://quiethear.github.io/canvas-weMenu/index.html "我们的菜单")(建议右键新建窗口查看)
 # 说明文档
 > ### 用处
->> 给我亲爱的生成菜单，省去思考的烦恼
+>> 随机生成菜单，省去思考的烦恼
 # 更新日志
 > v1.0
 >> * 添加Loading
